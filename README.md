@@ -187,7 +187,7 @@ Web sitenizi veya uygulamanızı test etmek ya da izlemek için kullanabileceği
     -   🛠 [@neutrinojs/style-minify - npm](https://www.npmjs.com/package/@neutrinojs/style-minify)
     -   🛠 [Online CSS Compressor](http://refresh-sf.com)
 
--   [ ] **Concatenation:** ![medium] CSS files are concatenated in a single file _(Not always valid for HTTP/2)_.
+-   [ ] **Birleştirme:** ![medium] CSS files are concatenated in a single file _(Not always valid for HTTP/2)_.
 
     ```html
     <!-- Not recommended -->
