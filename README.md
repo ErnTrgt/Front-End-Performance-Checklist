@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center">🚨 Şu anda frontendchecklist.io'nun yeni sürümü üzerinde çalışılıyor <br>(mevcut performansı içerecektir).<br>Görmek istediğiniz herhangi bir özelliği <a href="https://github.com/thedaviddias/Front-End-Checklist/discussions/513">belirtmekten</a>lütfen çekinmeyin. Desteğiniz için teşekkürler!</h3>
+<h3 align="center">🚨 Şu anda frontendchecklist.io'nun yeni sürümü üzerinde çalışılıyor <br>(mevcut performansı içerecektir).<br>Görmek istediğiniz herhangi bir özelliği <a href="https://github.com/thedaviddias/Front-End-Checklist/discussions/513">belirtmekten</a> lütfen çekinmeyin. Desteğiniz için teşekkürler!</h3>
 
 ---
 
@@ -51,7 +51,7 @@
 
 ## Giriş
 
-Performans çok büyük bir konudur, ancak her zaman bir "back-end" veya "yönetici" konusu değildir: aynı zamanda bir Front-End sorumluluğudur. Front-End Performans Kontrol Listesi, bir Front-End geliştiricisi olarak kontrol etmeniz veya en azından farkında olmanız ve projenize (kişisel veya profesyonel) uygulamanız gereken unsurların kapsamlı bir listesidir.
+Performans çok büyük bir konudur, ancak her zaman bir "back-end" veya "yönetici" konusu değildir, aynı zamanda bir Front-End sorumluluğudur. Front-End Performans Kontrol Listesi, bir Front-End geliştiricisi olarak kontrol etmeniz veya en azından farkında olmanız ve projenize (kişisel veya profesyonel) uygulamanız gereken unsurların kapsamlı bir listesidir.
 
 ### Nasıl Kullanılır?
 
